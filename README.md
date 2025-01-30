@@ -1,6 +1,4 @@
-
-<img src="./label/aboutme.png" width="320" />
- 
+<div align=right>
 > Hi, I'm **Bugar Wahyu**
 
 > Live In **West Java, Indonesia**
