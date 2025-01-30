@@ -10,7 +10,7 @@
 
 > My Skill **HTML, CSS, JavaScript, PHP, Python, Java, Dart**
 
-> Understand **Bahasa Indonesia, English**
+> Understand **Bahasa Indonesia, and English**
 
 </div>
   
