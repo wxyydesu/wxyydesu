@@ -9,9 +9,7 @@
    \ \____________\/  /\   \ __/  / /   __/  / /    
     \|____________/__/ /\ __\\___/ /   |\___/ /     
                   |__|/ \|__\|___|/    \|___|/      
-```
 
-```bash
 ┌─[💻 Bugar Wahyu @ West Java]
 └─> $ whoami
 Front-end Dev | Android Dev | Ethical DevOps Enthusiast
