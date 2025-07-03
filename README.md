@@ -1,7 +1,6 @@
 <!-- WXYYDESU -->
 
-<!-- WXYYDESU -->
-
+```text
  ___       __      ___    ___ ___    ___ ___    ___ 
 |\  \     |\  \   |\  \  /  /|\  \  /  /|\  \  /  /|
 \ \  \    \ \  \  \ \  \/  / | \  \/  / | \  \/  / /
@@ -10,8 +9,7 @@
    \ \____________\/  /\   \ __/  / /   __/  / /    
     \|____________/__/ /\ __\\___/ /   |\___/ /     
                   |__|/ \|__\|___|/    \|___|/      
-                                                    
-                                                    
+```
 
 ```bash
 ┌─[💻 Bugar Wahyu @ West Java]
@@ -38,6 +36,7 @@ Front-end Dev | Android Dev | Ethical DevOps Enthusiast
 
 # Stay lowkey. Learn deeply. Code ethically. 
 # Terminal is my playground.
+```
 
 
 ```bash
