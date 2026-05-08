@@ -13,7 +13,7 @@
 
 ┌─[💻 Bugar Wahyu @ West Java]
 └─> $ whoami
-Front-end Dev | Android Dev | Ethical DevOps Enthusiast
+Full-Stack Dev | Android Dev | Ethical DevOps Enthusiast
 
 > OS     : Windows / Linux 
 > Skills : HTML, CSS, JavaScript, PHP, Python, Java, Dart
