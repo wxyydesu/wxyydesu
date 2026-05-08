@@ -25,7 +25,7 @@ Front-end Dev | Android Dev | Ethical DevOps Enthusiast
 
 [DEV STACK]
  Next.js |  React |  Flutter | Laravel
- HTML |  CSS |  JavaScript |  PHP |  Python |  Javascript
+ HTML |  CSS |  JavaScript |  PHP |  Python | Dart
 
 [DATABASES]
  PostgreSQL |  MySQL 
