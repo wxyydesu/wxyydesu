@@ -9,30 +9,38 @@
    \ \____________\/  /\   \ __/  / /   __/  / /    
     \|____________/__/ /\ __\\___/ /   |\___/ /     
                   |__|/ \|__\|___|/    \|___|/      
+```
+
 # IDENTITY
 
 ┌─[💻 Bugar Wahyu @ West Java]
 └─> $ whoami
-Full-Stack Dev | Android Dev | Ethical DevOps Enthusiast
 
-> OS     : Windows / Linux 
-> Skills : HTML, CSS, JavaScript, PHP, Python, Java, Dart
-> Speak  : Bahasa Indonesia, English
-> Interests: Frontend Tech, Open Source, CLI Tools, Hacking Culture
+Full-Stack Developer | Mobile Developer | DevOps Enthusiast
 
-[SYSTEM TOOLS]
-🖥️ Windows Terminal | NGINX | 🟢 NodeJS | 🔵 NPM
+> Currently learning, building, breaking, and fixing things.
+> Mostly interested in web, mobile, backend, and everything
+> that happens behind the scenes.
 
-[DEV STACK]
- Next.js |  React |  Flutter | Laravel
- HTML |  CSS |  JavaScript |  PHP |  Python | Dart
+[SYSTEM]
 
-[DATABASES]
- PostgreSQL |  MySQL 
+> OS        : Windows / Linux
+> Languages : JavaScript, TypeScript, PHP, Python, Dart, Java
+> Focus     : Web Apps, Mobile Apps, Backend & Deployment
 
-[TOOLS]
-Visual Studio Code | Anti Gravity | Code Server
+[STACK]
 
-# Stay lowkey. Learn deeply. Code ethically. 
-# Terminal is my playground.
+Next.js | React | Flutter | NestJS | Laravel
+
+[DATABASE]
+
+PostgreSQL | MySQL
+
+[TOOLBOX]
+
+VS Code | Windows Terminal | NGINX | Docker
+Node.js | NPM | Git | Code Server
+
+# Stay curious. Build quietly. Learn deeply.
+
 ```
