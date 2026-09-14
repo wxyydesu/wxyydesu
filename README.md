@@ -19,16 +19,6 @@
 
 Full-Stack Developer | Mobile Developer | DevOps Enthusiast
 
-> Currently learning, building, breaking, and fixing things.
-> Mostly interested in web, mobile, backend, and everything
-> that happens behind the scenes.
-
-[SYSTEM]
-
-> OS        : Windows / Linux
-> Languages : JavaScript, TypeScript, PHP, Python, Dart, Java
-> Focus     : Web Apps, Mobile Apps, Backend & Deployment
-
 [STACK]
 
 Next.js | React | Flutter | NestJS | Laravel
