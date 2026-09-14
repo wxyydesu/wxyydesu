@@ -19,7 +19,7 @@
 
 Full-Stack Developer | Mobile Developer | DevOps Enthusiast
 
-[STACK]
+<img src="https://raw.githubusercontent.com/wxyydesu/wxyydesu/main/Assets/Stack.png">
 
 Next.js | React | Flutter | NestJS | Laravel
 
